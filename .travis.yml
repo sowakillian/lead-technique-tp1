@@ -6,4 +6,4 @@ node_js:
   api_key: 9849ac1d-43ec-4096-a879-483ebf449131
   app:
     develop: lt-tp1-staging
-    main: lt-tp1-production
+    main: lt-tp2-prod
