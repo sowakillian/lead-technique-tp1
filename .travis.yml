@@ -3,8 +3,7 @@ node_js:
  - "8.6.0"
  deploy:
   provider: heroku
-  api_key:
-    secure: 9849ac1d-43ec-4096-a879-483ebf449131
+  api_key: 9849ac1d-43ec-4096-a879-483ebf449131
   app:
     develop: lt-tp1-staging
     main: lt-tp1-production
