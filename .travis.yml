@@ -7,3 +7,5 @@ deploy:
   app:
     master: lt-tp1-staging
     production: lt-tp-prod
+script: npm test
+after_success: npm run coverage
